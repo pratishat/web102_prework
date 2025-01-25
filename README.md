@@ -1,6 +1,6 @@
 # WEB102 Prework - *SeaSharp*
 
-Submitted by: **Pratishat Ghimire*
+Submitted by: **Pratishat Ghimire**
 
 **SeaSharp** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
