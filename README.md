@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://img.youtube.com/vi/f6AKMyVEygA/0.jpg)](https://youtu.be/f6AKMyVEygA)
+<img src='https://imgur.com/a/tbw5D1q' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-(Please click on the thumbnail)
 <!-- Replace this with whatever GIF tool you used! -->
-Video uploaded to YouTube  
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
