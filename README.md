@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f6AKMyVEygA" frameborder="0" allowfullscreen></iframe>
+[![Video Walkthrough](https://img.youtube.com/vi/f6AKMyVEygA/0.jpg)](https://youtu.be/f6AKMyVEygA)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video uploaded to YouTube  
