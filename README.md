@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/f6AKMyVEygA' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6AKMyVEygA" frameborder="0" allowfullscreen></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Video uploaded to YouTube  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
