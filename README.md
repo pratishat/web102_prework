@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 
 [![Video Walkthrough](https://img.youtube.com/vi/f6AKMyVEygA/0.jpg)](https://youtu.be/f6AKMyVEygA)
 
+(Please click on the thumbnail)
 <!-- Replace this with whatever GIF tool you used! -->
 Video uploaded to YouTube  
 <!-- Recommended tools:
