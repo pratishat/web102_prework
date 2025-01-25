@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/sfbT4WC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video controls width="600">
+  <source src="https://i.imgur.com/BKrF1aK.mp4" type="video/mp4">
+</video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
